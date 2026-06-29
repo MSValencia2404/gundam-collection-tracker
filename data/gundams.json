@@ -1,0 +1,72 @@
+[
+    {
+        "id": "GDM001",
+        "name": "Strike Freedom",
+        "grade": "MGEX",
+        "series": "Gundam Seed Destiny",
+        "status": "Built"
+    },
+    {
+        "id": "GDM002",
+        "name": "Barbatos Lupus Rex",
+        "grade": "MG",
+        "series": "Iron Blooded Orphans",
+        "status": "Built"
+    },
+    {
+        "id": "GDM003",
+        "name": "Gundam 00",
+        "grade": "MG",
+        "series": "Gundam 00",
+        "status": "Built"
+    },
+    {
+        "id": "GDM004",
+        "name": "OVA Gundam Unicorn",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam Unicorn RX:0098",
+        "status": "Built"
+    },
+    {
+        "id": "GDM006",
+        "name": "ASW-G-XX Gundam Vidar",
+        "grade": "MG",
+        "series": "Iron Blooded Orphans",
+        "status": "Built"
+    },
+    {
+        "id": "GDM007",
+        "name": "Gundam Astray Red Frame Kai",
+        "grade": "MG",
+        "series": "Gundam Seed Astray",
+        "status": "Built"
+    },
+    {
+        "id": "GDM008",
+        "name": "Aerial Gundam",
+        "grade": "HG",
+        "series": "The Witch From Mercury",
+        "status": "Built"
+    },
+    {
+        "id": "GDM009",
+        "name": "Gundam Unicorn Banshee",
+        "grade": "MG",
+        "series": "Mobile Suit Gundam Unicorn RX:0098",
+        "status": "Built"
+    },
+    {
+        "id": "GDM010",
+        "name": "Infinite Justice Gundam",
+        "grade": "MG",
+        "series": "Gundam Seed",
+        "status": "Built"
+    },
+    {
+        "id": "GDM011",
+        "name": "ASW-G-08 Gundam Barbatos Lupus",
+        "grade": "MG",
+        "series": "Iron Blooded Orphans",
+        "status": "Built"
+    }
+]

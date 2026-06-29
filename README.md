@@ -4,7 +4,7 @@
 
 Gundam Collection Tracker is a console-based Python application that helps users organize and manage their Gunpla collection. It allows users to add, update, search, filter, and delete Gundam kits while keeping the collection saved in a JSON file. The application also provides collection statistics and supports exporting data to CSV for reporting or backup purposes.
 
-This project was built to strengthen my understanding of Python fundamentals, object-oriented programming, and file handling by applying them to a practical inventory management application.
+I built this project as part of my Python learning journey. Since building Gunpla is one of my hobbies, I wanted to create a practical application that I could actually use while improving my understanding of object-oriented programming, file handling, and data management.
 
 ---
 
@@ -134,4 +134,4 @@ Some features I plan to add in future versions include:
 
 **Michael Valencia**
 
-This project is part of my Python learning journey and serves as one of my portfolio projects while improving my software development skills.~~~~
+~~~~

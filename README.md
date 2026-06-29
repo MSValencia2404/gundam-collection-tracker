@@ -130,6 +130,28 @@ Some features I plan to add in future versions include:
 
 ---
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Collection
+
+![Collection](screenshots/collection-page-1.png)
+
+### Statistics
+
+![Statistics](screenshots/statistics.png)
+
+### Filter Menu
+
+![Filter Menu](screenshots/filter_menu.png)
+
 ## Author
 
 **Michael Valencia**
